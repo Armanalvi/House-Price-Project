@@ -1,5 +1,5 @@
 def predict_price(area, bedrooms):
-    price = (area * 3000) + (bedrooms * 500000)
+   price = (area * 2500) + (bedrooms * 400000) + 1000000
     return price
 
 
